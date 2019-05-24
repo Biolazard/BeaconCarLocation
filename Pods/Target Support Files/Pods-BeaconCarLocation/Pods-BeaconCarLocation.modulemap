@@ -1,0 +1,6 @@
+framework module Pods_BeaconCarLocation {
+  umbrella header "Pods-BeaconCarLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}

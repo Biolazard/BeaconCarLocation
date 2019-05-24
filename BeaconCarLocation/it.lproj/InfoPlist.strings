@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  BeaconCarLocation
+
+  Created by Mek on 18/04/18.
+  Copyright © 2018 Mek. All rights reserved.
+*/
+"NSLocationWhenInUseUsageDescription" = "Consentimi di usare la tua posizione sempre per permetterti di sapere in qulsiasi momento dove si trova la tua auto";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Consentimi di usare la tua posizione sempre per permetterti di sapere in qulsiasi momento dove si trova la tua auto";
+"NSLocationAlwaysUsageDescription" = "Consentimi di usare la tua posizione sempre per permetterti di sapere in qulsiasi momento dove si trova la tua auto";

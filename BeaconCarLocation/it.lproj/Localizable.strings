@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  BeaconCarLocation
+
+  Created by Mek on 18/04/18.
+  Copyright © 2018 Mek. All rights reserved.
+*/
+
+"REG" = "Registrati";
+"NOME" = "Nome";
+"EMAIL" = "Email";
+"PASS" = "Password";
+"FINE" = "Fine";
+
+"DDA" = "Dati di accesso errati";
+"CTC" = "Completa tutti i campi";
+"SALVA" = "Salva";
+
+"MAPPA" = "Mappa";
+"IMPOSTAZIONI" = "Impostazioni";
+
+"UMM" = "Cambia valori UUID, Major Value, Minor Value";
+
+"SUR" = "Scrivi una recensione";
+"SURSUB" = "Scrivi una recensione sull'App Store. Ci sarebbe davvero d'aiuto";
+
+"EMAILS" = "E-Mail Sviluppatore";
+"EMAILSUB" = "Per qualsiasi problemi, scrivici";
+
+"MC" = "La mia macchina";
+
+"WE" = "Bentornato!";
+"IN" = "In macchina";
+
+"GO" = "Arriverci!";
+"OUT" = "Lontano dalla macchina";

@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  BeaconCarLocation
+
+  Created by Mek on 18/04/18.
+  Copyright © 2018 Mek. All rights reserved.
+*/
+"REG" = "Sign in";
+"NOME" = "Name";
+"EMAIL" = "Email";
+"PASS" = "Password";
+"FINE" = "Done";
+
+"DDA" = "Your email or password was incorrect";
+"CTC" = "Complete all fields";
+
+"SALVA" = "Save";
+
+"MAPPA" = "Map";
+"IMPOSTAZIONI" = "Settings";
+
+"UMM" = "Change value of UUID, Major Value, Minor Value";
+
+"SUR" = "Leave Feedback";
+"SURSUB" = "Leave Feedback on App Store. It would really help!";
+
+"EMAILS" = "E-Mail Developer";
+"EMAILSUB" = "for any problem, write to us";
+
+"MC" = "My Car";
+
+"WE" = "Welcome!";
+"IN" = "In you car";
+
+"GO" = "Goodbye!";
+"OUT" = "Out of your car";
