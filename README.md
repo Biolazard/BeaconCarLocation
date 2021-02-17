@@ -8,4 +8,3 @@ To use it you need a Beacon inside your car that allow to recognize the distance
 
  ![](Offy.gif)
 
-## To do!
